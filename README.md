@@ -1,6 +1,6 @@
 # homebrew-tmux-ghostty
 
-Homebrew tap for [tmux-ghostty](https://github.com/Woo-kk/tumx-ghostty).
+Homebrew tap for [tmux-ghostty](https://github.com/Woo-kk/tmux-ghostty).
 
 ## Install
 
@@ -21,4 +21,4 @@ brew upgrade tmux-ghostty
 brew uninstall tmux-ghostty
 ```
 
-This tap is intended to be updated automatically from releases in `Woo-kk/tumx-ghostty`.
+This tap is intended to be updated automatically from releases in `Woo-kk/tmux-ghostty`.
